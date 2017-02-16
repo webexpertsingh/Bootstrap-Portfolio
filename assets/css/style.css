@@ -1,0 +1,39 @@
+.bor {
+	border-style: solid;
+	border-width: 1px;
+}
+.marg {
+	margin-bottom: 20px;
+}
+.ics {
+	width: 50px;
+}
+.textar {
+	height: 150px !important;
+}
+.logo1 {
+	background: #777777;
+	color: #fff !important;
+	padding: 20px;
+	overflow: none;
+}
+.logo1:hover {
+	background: #777777 !important;
+	color: #fff !important;
+	padding: 20px;
+	overflow: none;
+}
+.asideBg {
+    background: #fff;
+}
+.footer1 {
+	padding: 20px;
+	background: #777777;
+	color: #fff;
+	margin-top: 20px;
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+	border-color: #999999;
+	border-top-style: solid;
+}
